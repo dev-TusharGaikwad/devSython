@@ -1,15 +1,13 @@
 
 ### Hi there, I'm Tushar - aka [Sython][website] 👋
 
-[![Website](https://img.shields.io/website?label=devSython.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gamemellow69.wixsite.com/devsython)
-[![Instagram Follow](https://img.shields.io/instagram/follow/iam_tushargaikwad?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/iam_tushargaikwad)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Developer, and also a Filmmaker!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love filmaking / cinematography
+- ⚡ Fun fact: I love filmmaking / cinematography
 
 
 
