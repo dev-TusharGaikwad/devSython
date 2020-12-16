@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**devSython/devSython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Tushar - aka [Sython][website] 👋
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gamemellow69.wixsite.com/devsython)
+[![Instagram Follow](https://img.shields.io/instagram/follow/iam_tushargaikwad?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/iam_tushargaikwad)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a Husband, Father, Developer, and Teacher!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love filmaking / cinematography
+
+
+
+### Connect with me:
+
+[<img align="left" alt="devSython.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="devSython | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="devSython | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
+<br />
+<br />
+
+---
+
+
+[website]: https://gamemellow69.wixsite.com/devsython
+[instagram]: https://instagram.com/iam_tushargaikwad
+[linkedin]: https://linkedin.com/in/contact-tushargaikwad
+
