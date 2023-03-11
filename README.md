@@ -20,13 +20,13 @@
 
 <img align="left" alt="Golang" width="30px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
 
-<img align="left" alt="gRPC" width="30px" src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.png" />
+<img align="left" alt="gRPC" width="50px" src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.png" />
 
-<img align="left" alt="ZMQ" width="30px" src="https://zeromq.org/images/logo.gif" />
+<img align="left" alt="ZMQ" width="50px" src="https://zeromq.org/images/logo.gif" />
 
-<img align="left" alt="Protobuff" width="30px" src="https://www.freecodecamp.org/news/content/images/2020/05/unnamed-1.png" />
+<img align="left" alt="Protobuff" width="50px" src="https://www.freecodecamp.org/news/content/images/2020/05/unnamed-1.png" />
 
-<img align="left" alt="Linux" width="30px" src="https://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" />
+<img align="left" alt="Linux" width="50px" src="https://www.freepnglogos.com/uploads/linux-png/linux-tux-logo-png-transparent-svg-vector-bie-supply-14.png" />
 
 <br />
 <br />
