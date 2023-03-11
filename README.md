@@ -24,7 +24,7 @@
 
 <img align="center" alt="ZMQ" width="50px" src="https://zeromq.org/images/logo.gif" />
 
-<img align="center" alt="Protobuff" width="50px" src="https://www.freecodecamp.org/news/content/images/2020/05/unnamed-1.png" />
+<img align="left" alt="Protobuff" width="50px" src="https://www.freecodecamp.org/news/content/images/2020/05/unnamed-1.png" />
 
 <img align="left" alt="Linux" width="50px" src="https://www.freepnglogos.com/uploads/linux-png/linux-tux-logo-png-transparent-svg-vector-bie-supply-14.png" />
 
