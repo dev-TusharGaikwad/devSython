@@ -12,21 +12,21 @@
 ---
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Golang" width="30px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
+<img align="center" alt="Golang" width="30px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
 
-<img align="left" alt="gRPC" width="50px" src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.png" />
+<img align="center" alt="gRPC" width="50px" src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.png" />
 
 <img align="center" alt="ZMQ" width="50px" src="https://zeromq.org/images/logo.gif" />
 
-<img align="left" alt="Protobuff" width="50px" src="https://www.freecodecamp.org/news/content/images/2020/05/unnamed-1.png" />
+<img align="center" alt="Protobuff" width="50px" src="https://www.freecodecamp.org/news/content/images/2020/05/unnamed-1.png" />
 
-<img align="left" alt="Linux" width="50px" src="https://www.freepnglogos.com/uploads/linux-png/linux-tux-logo-png-transparent-svg-vector-bie-supply-14.png" />
+<img align="center" alt="Linux" width="50px" src="https://www.freepnglogos.com/uploads/linux-png/linux-tux-logo-png-transparent-svg-vector-bie-supply-14.png" />
 
 <br />
 <br />
