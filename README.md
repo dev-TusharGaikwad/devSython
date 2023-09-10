@@ -6,8 +6,7 @@
 
 - 🧑‍💼 Working as Application Developer
 - 👯‍♂️ I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Other Interests: I love filmmaking / cinematography
+- ⚡ Other Interests: I love filmmaking/cinematography
 
 ---
 
@@ -28,8 +27,7 @@
 
 ### Golang
 
-<img align="left" alt="gRPC" width="50px" src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.png" />
-
+<img align="left" alt="gRPC" width="50px" src="https://github.com/devSython/devSython/assets/72184118/e5547782-256b-4d93-a345-39cc0d4ff5e1" />
 ### gRPC
 
 <img align="left" alt="Linux" width="50px" src="https://www.freepnglogos.com/uploads/linux-png/linux-tux-logo-png-transparent-svg-vector-bie-supply-14.png" />
@@ -58,4 +56,6 @@
 [website]: https://gamemellow69.wixsite.com/devsython
 [instagram]: https://instagram.com/iam_tushargaikwad
 [linkedin]: https://linkedin.com/in/contact-tushargaikwad
+
+
 
